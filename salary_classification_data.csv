@@ -1,0 +1,1001 @@
+Education,Job_Title,Gender,Location,Salary,High_Salary
+Master,Engineer,Male,Suburban,195024,1
+PhD,Manager,Female,Suburban,93798,0
+High School,Analyst,Female,Rural,138696,1
+Master,Analyst,Female,Rural,90939,0
+Master,Analyst,Female,Suburban,69516,0
+PhD,Analyst,Male,Rural,181521,1
+High School,Director,Female,Rural,90290,0
+High School,Analyst,Male,Suburban,166688,1
+Master,Director,Male,Rural,126661,1
+Bachelor,Director,Male,Urban,112954,1
+Master,Analyst,Male,Urban,62746,0
+Master,Analyst,Male,Urban,107990,1
+Master,Engineer,Female,Urban,98810,0
+Master,Manager,Female,Suburban,158362,1
+PhD,Analyst,Female,Suburban,186295,1
+High School,Engineer,Female,Suburban,173669,1
+PhD,Engineer,Male,Urban,42659,0
+PhD,Manager,Female,Urban,126516,1
+PhD,Director,Male,Rural,114567,1
+Master,Analyst,Female,Rural,55037,0
+Bachelor,Manager,Male,Urban,166498,1
+High School,Analyst,Male,Urban,52109,0
+Bachelor,Engineer,Female,Urban,62010,0
+PhD,Engineer,Male,Urban,48787,0
+PhD,Director,Male,Rural,179544,1
+Bachelor,Engineer,Female,Urban,194455,1
+Bachelor,Engineer,Male,Rural,101709,1
+Bachelor,Manager,Female,Urban,74518,0
+PhD,Analyst,Female,Urban,93909,0
+PhD,Analyst,Female,Urban,58351,0
+High School,Manager,Male,Rural,55282,0
+High School,Director,Male,Rural,192850,1
+PhD,Analyst,Male,Suburban,195336,1
+Bachelor,Engineer,Female,Urban,45075,0
+Bachelor,Analyst,Male,Suburban,68365,0
+High School,Engineer,Female,Suburban,51002,0
+PhD,Director,Female,Rural,53947,0
+High School,Manager,Male,Rural,134840,1
+High School,Analyst,Female,Suburban,156219,1
+Master,Manager,Male,Urban,118610,1
+Master,Analyst,Male,Rural,92142,0
+Master,Engineer,Male,Urban,96307,0
+Bachelor,Manager,Male,Urban,175565,1
+PhD,Analyst,Male,Suburban,90085,0
+PhD,Engineer,Female,Suburban,74228,0
+PhD,Manager,Female,Suburban,83472,0
+PhD,Manager,Female,Suburban,89437,0
+Master,Analyst,Male,Rural,99711,0
+Bachelor,Analyst,Male,Rural,177888,1
+Bachelor,Analyst,Male,Suburban,117175,1
+Master,Engineer,Female,Rural,104307,1
+Bachelor,Analyst,Male,Suburban,86733,0
+Master,Manager,Female,Urban,168202,1
+PhD,Manager,Female,Urban,135028,1
+Master,Analyst,Male,Urban,182312,1
+PhD,Analyst,Male,Suburban,132493,1
+PhD,Director,Female,Urban,165149,1
+High School,Manager,Male,Rural,48259,0
+Master,Engineer,Female,Urban,168775,1
+High School,Director,Male,Urban,54849,0
+Master,Analyst,Male,Urban,121768,1
+Master,Analyst,Female,Rural,146108,1
+High School,Manager,Male,Suburban,129709,1
+High School,Analyst,Female,Rural,94869,0
+Master,Engineer,Male,Suburban,166888,1
+Bachelor,Manager,Female,Suburban,103095,1
+PhD,Analyst,Female,Urban,157886,1
+High School,Manager,Male,Suburban,110910,1
+PhD,Analyst,Female,Rural,63567,0
+Bachelor,Analyst,Male,Rural,75292,0
+Bachelor,Analyst,Male,Suburban,114813,1
+Bachelor,Engineer,Male,Urban,137136,1
+High School,Engineer,Female,Urban,91631,0
+Bachelor,Manager,Female,Rural,49885,0
+High School,Analyst,Male,Urban,106314,1
+Bachelor,Analyst,Male,Suburban,105087,1
+PhD,Engineer,Female,Suburban,135998,1
+PhD,Analyst,Male,Rural,89812,0
+Master,Engineer,Male,Suburban,98643,0
+PhD,Analyst,Female,Rural,84900,0
+Master,Manager,Male,Suburban,178923,1
+PhD,Analyst,Female,Rural,56288,0
+High School,Analyst,Male,Urban,112692,1
+PhD,Director,Female,Suburban,178440,1
+Master,Engineer,Male,Suburban,125436,1
+Master,Analyst,Male,Rural,86403,0
+Bachelor,Analyst,Female,Rural,131170,1
+High School,Director,Male,Suburban,49168,0
+PhD,Director,Female,Rural,89879,0
+Bachelor,Engineer,Male,Suburban,99871,0
+PhD,Director,Female,Urban,72174,0
+PhD,Manager,Female,Rural,177653,1
+Bachelor,Director,Female,Suburban,150155,1
+Bachelor,Manager,Female,Urban,111853,1
+Bachelor,Engineer,Male,Urban,104046,1
+Bachelor,Engineer,Male,Suburban,89678,0
+Bachelor,Engineer,Female,Rural,66649,0
+PhD,Engineer,Female,Suburban,167795,1
+Bachelor,Engineer,Female,Urban,128668,1
+High School,Manager,Male,Suburban,185639,1
+Master,Manager,Male,Rural,129906,1
+Bachelor,Engineer,Male,Urban,136019,1
+Bachelor,Director,Male,Suburban,118002,1
+PhD,Analyst,Female,Rural,68803,0
+Bachelor,Engineer,Female,Urban,189302,1
+Bachelor,Director,Female,Rural,188934,1
+Bachelor,Analyst,Male,Urban,70795,0
+PhD,Engineer,Male,Suburban,48770,0
+Bachelor,Engineer,Male,Rural,51093,0
+Master,Manager,Female,Urban,171265,1
+PhD,Analyst,Female,Rural,140311,1
+Master,Analyst,Male,Rural,57569,0
+PhD,Director,Female,Suburban,51190,0
+Bachelor,Manager,Male,Rural,102824,1
+Master,Manager,Male,Urban,82070,0
+PhD,Manager,Female,Urban,80197,0
+High School,Manager,Male,Urban,42261,0
+Bachelor,Analyst,Female,Urban,197584,1
+PhD,Analyst,Male,Suburban,177788,1
+High School,Engineer,Female,Rural,126795,1
+PhD,Engineer,Female,Suburban,68933,0
+High School,Manager,Female,Rural,175450,1
+Bachelor,Manager,Male,Rural,80583,0
+Master,Manager,Male,Rural,152082,1
+High School,Engineer,Female,Suburban,125371,1
+PhD,Director,Female,Rural,195072,1
+Bachelor,Director,Male,Suburban,151032,1
+High School,Engineer,Male,Urban,82604,0
+PhD,Engineer,Male,Urban,135074,1
+PhD,Engineer,Female,Rural,113869,1
+PhD,Engineer,Male,Suburban,45410,0
+High School,Engineer,Male,Urban,123375,1
+High School,Engineer,Female,Suburban,136055,1
+High School,Manager,Male,Suburban,177868,1
+Master,Manager,Male,Rural,126716,1
+High School,Manager,Male,Urban,94245,0
+High School,Manager,Female,Rural,83056,0
+High School,Engineer,Female,Rural,188781,1
+Master,Director,Female,Urban,98557,0
+High School,Analyst,Female,Urban,57543,0
+PhD,Engineer,Female,Suburban,136038,1
+High School,Analyst,Female,Urban,187796,1
+PhD,Director,Female,Suburban,43828,0
+PhD,Manager,Male,Suburban,156656,1
+PhD,Director,Male,Suburban,57087,0
+Master,Engineer,Female,Urban,183677,1
+Master,Manager,Male,Rural,71337,0
+Master,Engineer,Male,Suburban,176554,1
+High School,Manager,Female,Rural,105333,1
+PhD,Analyst,Male,Rural,176535,1
+Master,Analyst,Male,Urban,110448,1
+Master,Analyst,Male,Rural,44648,0
+High School,Director,Male,Rural,170576,1
+Master,Engineer,Male,Urban,73623,0
+High School,Director,Female,Suburban,75634,0
+Bachelor,Analyst,Female,Rural,154598,1
+Master,Engineer,Female,Urban,89334,0
+Bachelor,Analyst,Male,Rural,108648,1
+High School,Director,Female,Rural,62054,0
+PhD,Director,Male,Suburban,110028,1
+Master,Director,Male,Rural,62207,0
+High School,Analyst,Male,Urban,121554,1
+PhD,Engineer,Male,Rural,192458,1
+PhD,Engineer,Female,Suburban,123276,1
+Bachelor,Analyst,Female,Suburban,92781,0
+High School,Engineer,Male,Urban,101035,1
+PhD,Analyst,Female,Suburban,48210,0
+Master,Engineer,Male,Rural,84363,0
+Master,Manager,Female,Suburban,118279,1
+Bachelor,Manager,Female,Urban,193504,1
+PhD,Director,Male,Suburban,174393,1
+High School,Manager,Female,Suburban,121348,1
+Master,Manager,Male,Suburban,153816,1
+PhD,Manager,Female,Urban,163053,1
+PhD,Analyst,Male,Suburban,106262,1
+Bachelor,Manager,Male,Suburban,174832,1
+Master,Manager,Female,Rural,193262,1
+Master,Director,Female,Urban,107411,1
+High School,Manager,Male,Suburban,63377,0
+Master,Manager,Female,Urban,78211,0
+High School,Engineer,Female,Suburban,43744,0
+Master,Director,Male,Suburban,64995,0
+Bachelor,Director,Male,Suburban,188049,1
+Master,Director,Female,Rural,74542,0
+High School,Director,Male,Rural,50651,0
+High School,Director,Male,Rural,139239,1
+Bachelor,Director,Male,Urban,118931,1
+Master,Analyst,Female,Urban,142112,1
+Master,Manager,Female,Rural,56715,0
+Bachelor,Director,Male,Urban,195378,1
+Master,Manager,Female,Suburban,190158,1
+Master,Manager,Male,Suburban,185448,1
+High School,Analyst,Female,Suburban,101350,1
+Master,Director,Male,Rural,111425,1
+Master,Engineer,Male,Urban,126120,1
+Bachelor,Analyst,Female,Rural,154889,1
+Bachelor,Engineer,Male,Urban,181130,1
+PhD,Manager,Female,Suburban,114637,1
+High School,Manager,Female,Rural,110194,1
+Master,Analyst,Male,Urban,116917,1
+Master,Analyst,Male,Urban,104200,1
+PhD,Engineer,Female,Suburban,145848,1
+Master,Director,Male,Rural,146022,1
+High School,Engineer,Male,Rural,188226,1
+PhD,Analyst,Male,Rural,190611,1
+High School,Engineer,Male,Suburban,100058,1
+PhD,Analyst,Male,Rural,102068,1
+PhD,Engineer,Female,Suburban,139932,1
+Bachelor,Analyst,Female,Suburban,177103,1
+High School,Analyst,Male,Suburban,62785,0
+Master,Analyst,Male,Urban,199741,1
+Master,Director,Male,Rural,134475,1
+High School,Engineer,Female,Rural,42282,0
+Master,Engineer,Male,Suburban,107534,1
+Master,Engineer,Female,Suburban,114964,1
+High School,Analyst,Female,Rural,159006,1
+PhD,Engineer,Female,Suburban,90583,0
+High School,Engineer,Male,Rural,78392,0
+PhD,Analyst,Female,Urban,47461,0
+Master,Manager,Male,Suburban,140123,1
+Master,Analyst,Female,Rural,50516,0
+Master,Engineer,Male,Suburban,188586,1
+Bachelor,Analyst,Female,Rural,161251,1
+PhD,Manager,Male,Rural,102493,1
+Bachelor,Analyst,Female,Suburban,76027,0
+Bachelor,Engineer,Male,Urban,133547,1
+High School,Manager,Male,Rural,140127,1
+Bachelor,Director,Male,Rural,188930,1
+High School,Engineer,Male,Rural,119003,1
+High School,Manager,Female,Urban,79758,0
+Bachelor,Manager,Female,Urban,94312,0
+PhD,Director,Male,Suburban,108670,1
+PhD,Analyst,Female,Urban,122279,1
+PhD,Analyst,Male,Suburban,55434,0
+PhD,Engineer,Male,Suburban,115769,1
+PhD,Director,Female,Urban,106677,1
+Bachelor,Analyst,Male,Suburban,123555,1
+Bachelor,Director,Male,Urban,168379,1
+Master,Analyst,Female,Suburban,141665,1
+PhD,Manager,Male,Urban,108803,1
+Bachelor,Analyst,Male,Urban,131703,1
+Master,Director,Male,Suburban,61312,0
+PhD,Manager,Male,Rural,157961,1
+High School,Manager,Female,Suburban,80379,0
+Master,Manager,Female,Urban,57297,0
+Bachelor,Director,Female,Rural,42011,0
+High School,Engineer,Male,Suburban,160234,1
+High School,Engineer,Male,Suburban,84014,0
+High School,Engineer,Female,Suburban,182810,1
+Master,Director,Male,Rural,134333,1
+Bachelor,Manager,Male,Urban,51120,0
+High School,Engineer,Male,Suburban,179839,1
+PhD,Director,Male,Suburban,62852,0
+High School,Engineer,Female,Suburban,119239,1
+High School,Analyst,Female,Suburban,172001,1
+Master,Engineer,Female,Suburban,131575,1
+Master,Engineer,Male,Urban,135040,1
+Bachelor,Manager,Female,Urban,188510,1
+PhD,Director,Female,Suburban,45744,0
+Master,Manager,Male,Rural,178141,1
+High School,Manager,Male,Urban,82359,0
+Bachelor,Manager,Female,Rural,190871,1
+High School,Manager,Female,Urban,138746,1
+High School,Manager,Female,Suburban,160906,1
+Master,Engineer,Female,Urban,47597,0
+Bachelor,Manager,Male,Suburban,87093,0
+PhD,Manager,Female,Urban,154650,1
+PhD,Director,Female,Suburban,197489,1
+Master,Analyst,Male,Suburban,189765,1
+Master,Engineer,Female,Suburban,160956,1
+Bachelor,Engineer,Male,Suburban,155598,1
+PhD,Engineer,Male,Rural,173241,1
+PhD,Manager,Male,Suburban,193124,1
+PhD,Manager,Female,Rural,48036,0
+High School,Manager,Female,Rural,71778,0
+PhD,Director,Male,Suburban,198806,1
+High School,Analyst,Female,Rural,194245,1
+Bachelor,Manager,Female,Urban,177416,1
+High School,Analyst,Male,Suburban,58800,0
+Bachelor,Director,Male,Rural,65372,0
+PhD,Engineer,Female,Suburban,101516,1
+PhD,Manager,Male,Suburban,60538,0
+Bachelor,Analyst,Female,Suburban,103918,1
+Master,Analyst,Female,Rural,186045,1
+Bachelor,Manager,Female,Urban,111155,1
+Master,Engineer,Female,Urban,99500,0
+High School,Engineer,Male,Rural,150659,1
+High School,Engineer,Male,Suburban,67716,0
+High School,Director,Male,Rural,174308,1
+PhD,Analyst,Male,Rural,186920,1
+High School,Analyst,Female,Rural,42352,0
+Master,Analyst,Female,Suburban,173004,1
+High School,Director,Male,Rural,116449,1
+Bachelor,Analyst,Female,Suburban,48556,0
+Bachelor,Director,Female,Rural,126836,1
+PhD,Engineer,Female,Urban,176570,1
+Bachelor,Manager,Male,Rural,90098,0
+Master,Analyst,Male,Rural,152169,1
+High School,Analyst,Male,Urban,180641,1
+PhD,Engineer,Female,Suburban,166060,1
+High School,Manager,Male,Suburban,170544,1
+High School,Director,Male,Rural,40340,0
+Master,Manager,Male,Urban,122302,1
+Bachelor,Engineer,Male,Suburban,40138,0
+Bachelor,Engineer,Male,Rural,171430,1
+High School,Manager,Male,Urban,159619,1
+PhD,Director,Female,Suburban,125376,1
+Bachelor,Director,Female,Suburban,139931,1
+PhD,Analyst,Male,Urban,196951,1
+Bachelor,Director,Male,Urban,121532,1
+PhD,Manager,Female,Urban,95778,0
+Master,Engineer,Female,Urban,77772,0
+PhD,Analyst,Male,Rural,98478,0
+Master,Analyst,Male,Urban,66762,0
+Master,Engineer,Male,Suburban,184355,1
+PhD,Director,Male,Suburban,95568,0
+Master,Engineer,Female,Rural,125090,1
+High School,Director,Male,Suburban,60219,0
+Master,Engineer,Male,Suburban,97169,0
+Bachelor,Manager,Male,Urban,114965,1
+PhD,Director,Male,Suburban,124754,1
+High School,Manager,Female,Rural,117988,1
+PhD,Analyst,Female,Urban,190023,1
+Bachelor,Engineer,Female,Urban,172379,1
+Bachelor,Analyst,Male,Rural,120388,1
+Bachelor,Analyst,Male,Urban,130768,1
+Master,Analyst,Female,Urban,75428,0
+Master,Analyst,Male,Rural,132021,1
+PhD,Engineer,Male,Urban,158418,1
+PhD,Analyst,Female,Rural,172212,1
+High School,Engineer,Female,Rural,195914,1
+High School,Engineer,Female,Suburban,66421,0
+PhD,Manager,Female,Suburban,41708,0
+Master,Director,Male,Urban,174702,1
+Bachelor,Director,Male,Urban,190667,1
+PhD,Engineer,Female,Rural,116021,1
+High School,Manager,Male,Urban,199380,1
+Master,Engineer,Female,Rural,84789,0
+PhD,Engineer,Female,Rural,66086,0
+PhD,Engineer,Male,Urban,56859,0
+Master,Manager,Female,Rural,47684,0
+PhD,Director,Male,Suburban,131088,1
+Master,Manager,Male,Urban,172279,1
+Bachelor,Analyst,Male,Suburban,86099,0
+Master,Manager,Male,Urban,106093,1
+Master,Manager,Female,Rural,88651,0
+Master,Manager,Male,Urban,53893,0
+PhD,Manager,Female,Suburban,106418,1
+PhD,Director,Female,Rural,165074,1
+Master,Analyst,Female,Urban,143065,1
+PhD,Director,Female,Urban,170351,1
+High School,Director,Male,Urban,78635,0
+High School,Manager,Male,Suburban,135071,1
+PhD,Engineer,Female,Suburban,118518,1
+PhD,Engineer,Female,Urban,146233,1
+Master,Director,Male,Rural,143651,1
+Bachelor,Director,Female,Rural,112805,1
+PhD,Manager,Male,Suburban,199136,1
+High School,Director,Female,Rural,162813,1
+Master,Manager,Male,Suburban,119063,1
+PhD,Engineer,Female,Urban,42454,0
+High School,Engineer,Female,Suburban,60878,0
+High School,Analyst,Male,Suburban,184063,1
+Bachelor,Engineer,Female,Urban,108344,1
+Master,Director,Female,Rural,144946,1
+Master,Engineer,Male,Suburban,76593,0
+Bachelor,Manager,Female,Suburban,76304,0
+Bachelor,Engineer,Male,Urban,153613,1
+Master,Analyst,Male,Rural,192155,1
+Master,Engineer,Female,Suburban,58354,0
+PhD,Manager,Female,Urban,62190,0
+PhD,Manager,Female,Suburban,46142,0
+Bachelor,Director,Female,Urban,199470,1
+PhD,Engineer,Female,Rural,81862,0
+High School,Manager,Female,Rural,190575,1
+PhD,Analyst,Female,Rural,165438,1
+PhD,Director,Male,Rural,88456,0
+High School,Analyst,Female,Suburban,140167,1
+Bachelor,Engineer,Male,Suburban,122035,1
+High School,Engineer,Female,Rural,48016,0
+PhD,Engineer,Female,Rural,42384,0
+Bachelor,Director,Male,Rural,186144,1
+PhD,Manager,Female,Suburban,142239,1
+High School,Director,Female,Rural,151431,1
+High School,Analyst,Male,Rural,120018,1
+PhD,Director,Female,Rural,80510,0
+Master,Analyst,Female,Urban,61826,0
+Master,Director,Female,Rural,108026,1
+High School,Manager,Male,Urban,161668,1
+High School,Analyst,Female,Urban,196590,1
+Master,Engineer,Female,Rural,64045,0
+Master,Engineer,Female,Urban,130102,1
+PhD,Director,Female,Rural,91919,0
+PhD,Engineer,Male,Suburban,139441,1
+Master,Analyst,Male,Suburban,198175,1
+PhD,Engineer,Female,Suburban,176917,1
+PhD,Manager,Female,Suburban,158325,1
+Bachelor,Manager,Male,Urban,59337,0
+PhD,Director,Male,Rural,193385,1
+High School,Analyst,Female,Rural,198015,1
+PhD,Manager,Male,Rural,117949,1
+PhD,Manager,Female,Suburban,40276,0
+Master,Analyst,Male,Suburban,91151,0
+High School,Engineer,Male,Rural,188683,1
+PhD,Engineer,Male,Suburban,183016,1
+PhD,Director,Male,Rural,92887,0
+Bachelor,Engineer,Female,Rural,121442,1
+PhD,Analyst,Male,Rural,89847,0
+PhD,Manager,Male,Rural,98653,0
+Bachelor,Engineer,Female,Rural,96622,0
+Master,Director,Male,Rural,67810,0
+PhD,Engineer,Male,Rural,117842,1
+Bachelor,Analyst,Female,Suburban,162225,1
+High School,Director,Male,Rural,50503,0
+Master,Engineer,Female,Rural,124761,1
+High School,Director,Female,Suburban,166439,1
+High School,Analyst,Female,Suburban,51590,0
+Bachelor,Manager,Female,Suburban,181958,1
+PhD,Analyst,Male,Rural,183938,1
+Bachelor,Analyst,Female,Urban,106624,1
+Bachelor,Analyst,Male,Urban,180836,1
+Bachelor,Analyst,Male,Suburban,160356,1
+Bachelor,Manager,Male,Urban,82727,0
+Master,Manager,Male,Suburban,118471,1
+PhD,Director,Male,Rural,48068,0
+High School,Engineer,Male,Urban,156923,1
+High School,Manager,Male,Rural,178367,1
+PhD,Manager,Male,Urban,51390,0
+High School,Engineer,Male,Rural,146752,1
+PhD,Manager,Male,Urban,191203,1
+High School,Analyst,Female,Rural,134754,1
+Bachelor,Analyst,Female,Rural,115969,1
+High School,Engineer,Female,Urban,186110,1
+PhD,Director,Male,Rural,117064,1
+PhD,Director,Female,Rural,61281,0
+PhD,Engineer,Female,Rural,94189,0
+PhD,Engineer,Female,Urban,88511,0
+PhD,Analyst,Male,Urban,162115,1
+Master,Director,Male,Rural,48605,0
+Master,Manager,Male,Rural,140318,1
+High School,Analyst,Male,Urban,172453,1
+PhD,Engineer,Female,Urban,59810,0
+High School,Director,Female,Rural,195394,1
+PhD,Manager,Female,Rural,81869,0
+PhD,Manager,Female,Rural,72955,0
+Master,Analyst,Male,Suburban,101388,1
+Master,Director,Male,Urban,50207,0
+Bachelor,Director,Male,Suburban,199292,1
+Master,Engineer,Female,Urban,62031,0
+Bachelor,Director,Male,Urban,120807,1
+Bachelor,Director,Male,Urban,111312,1
+Bachelor,Analyst,Female,Urban,99766,0
+Bachelor,Director,Female,Urban,183521,1
+Bachelor,Manager,Male,Urban,129833,1
+High School,Analyst,Male,Urban,151041,1
+Master,Analyst,Male,Suburban,156185,1
+Bachelor,Engineer,Male,Rural,50350,0
+PhD,Director,Male,Rural,140859,1
+Master,Engineer,Male,Suburban,108487,1
+Master,Manager,Female,Suburban,188694,1
+Bachelor,Analyst,Female,Suburban,163853,1
+High School,Analyst,Female,Suburban,93117,0
+Bachelor,Analyst,Male,Urban,141084,1
+High School,Manager,Female,Rural,63782,0
+PhD,Manager,Male,Urban,68454,0
+Master,Engineer,Male,Rural,107904,1
+PhD,Engineer,Female,Rural,169936,1
+High School,Engineer,Male,Suburban,186664,1
+High School,Director,Male,Urban,193245,1
+PhD,Analyst,Female,Suburban,162258,1
+High School,Analyst,Female,Urban,151668,1
+PhD,Engineer,Female,Rural,164184,1
+Master,Analyst,Male,Suburban,56566,0
+PhD,Engineer,Female,Suburban,178262,1
+Master,Director,Female,Rural,78333,0
+PhD,Director,Male,Rural,161929,1
+High School,Manager,Female,Rural,129571,1
+PhD,Director,Female,Suburban,160263,1
+High School,Engineer,Female,Urban,172661,1
+PhD,Director,Male,Suburban,65235,0
+PhD,Manager,Male,Urban,40159,0
+Bachelor,Analyst,Male,Suburban,183217,1
+High School,Engineer,Male,Suburban,144859,1
+Bachelor,Analyst,Female,Rural,187309,1
+High School,Manager,Male,Urban,147507,1
+Bachelor,Manager,Male,Suburban,179316,1
+Master,Manager,Female,Suburban,54743,0
+PhD,Analyst,Female,Rural,86101,0
+High School,Analyst,Female,Rural,161534,1
+High School,Analyst,Male,Urban,124227,1
+PhD,Analyst,Male,Suburban,111126,1
+High School,Manager,Male,Urban,96071,0
+High School,Manager,Female,Suburban,114763,1
+Bachelor,Engineer,Female,Urban,183309,1
+High School,Engineer,Male,Rural,186721,1
+Master,Analyst,Female,Suburban,86154,0
+Master,Director,Female,Urban,47016,0
+PhD,Director,Female,Rural,129678,1
+High School,Manager,Male,Rural,152056,1
+PhD,Manager,Female,Urban,94238,0
+Master,Manager,Female,Suburban,98608,0
+High School,Engineer,Male,Suburban,129081,1
+High School,Engineer,Male,Rural,90961,0
+PhD,Manager,Female,Suburban,66917,0
+Master,Manager,Female,Suburban,193808,1
+High School,Manager,Male,Suburban,67990,0
+PhD,Director,Male,Rural,102551,1
+Master,Engineer,Female,Urban,193512,1
+PhD,Director,Female,Suburban,120811,1
+Bachelor,Director,Female,Rural,95103,0
+High School,Manager,Female,Rural,146122,1
+Bachelor,Manager,Male,Urban,59008,0
+Master,Analyst,Female,Suburban,72402,0
+Bachelor,Analyst,Female,Suburban,176865,1
+Bachelor,Director,Male,Urban,176643,1
+Master,Engineer,Female,Urban,187281,1
+PhD,Manager,Male,Rural,153550,1
+Bachelor,Manager,Female,Rural,131218,1
+PhD,Director,Female,Urban,173296,1
+Bachelor,Analyst,Male,Suburban,160779,1
+PhD,Engineer,Male,Rural,169714,1
+Master,Analyst,Female,Rural,72441,0
+Bachelor,Analyst,Female,Suburban,102368,1
+Master,Analyst,Female,Rural,132122,1
+Bachelor,Analyst,Male,Suburban,84760,0
+Master,Manager,Female,Suburban,63478,0
+Master,Manager,Male,Suburban,167881,1
+Bachelor,Analyst,Male,Urban,111854,1
+Bachelor,Engineer,Female,Urban,134230,1
+Bachelor,Director,Male,Urban,125716,1
+High School,Engineer,Female,Suburban,183252,1
+PhD,Engineer,Female,Suburban,138538,1
+High School,Engineer,Female,Urban,55372,0
+High School,Analyst,Female,Rural,69796,0
+Master,Manager,Female,Suburban,138826,1
+Bachelor,Engineer,Male,Rural,160592,1
+PhD,Analyst,Male,Rural,133635,1
+Master,Engineer,Female,Suburban,151022,1
+High School,Engineer,Female,Suburban,94040,0
+Bachelor,Analyst,Male,Rural,115357,1
+Master,Manager,Male,Rural,118356,1
+Bachelor,Manager,Male,Urban,56211,0
+Master,Director,Male,Urban,145426,1
+Bachelor,Analyst,Female,Suburban,45842,0
+High School,Director,Female,Urban,106852,1
+PhD,Director,Male,Urban,165737,1
+High School,Director,Female,Urban,85968,0
+PhD,Manager,Male,Urban,57508,0
+Bachelor,Analyst,Female,Rural,193077,1
+Master,Director,Male,Suburban,94575,0
+High School,Analyst,Female,Urban,190043,1
+PhD,Analyst,Male,Rural,196671,1
+High School,Manager,Male,Rural,106914,1
+PhD,Director,Female,Rural,107055,1
+High School,Director,Male,Urban,127697,1
+PhD,Analyst,Female,Urban,146239,1
+PhD,Engineer,Female,Suburban,163106,1
+Bachelor,Manager,Male,Urban,45355,0
+PhD,Manager,Female,Urban,94120,0
+Bachelor,Manager,Female,Rural,78342,0
+PhD,Manager,Female,Suburban,42257,0
+Master,Director,Female,Urban,67364,0
+Master,Director,Female,Urban,196044,1
+Master,Engineer,Male,Rural,151715,1
+PhD,Manager,Female,Rural,66654,0
+Bachelor,Manager,Female,Urban,121423,1
+Bachelor,Analyst,Female,Suburban,69320,0
+PhD,Director,Female,Suburban,60808,0
+Master,Manager,Female,Rural,92389,0
+Master,Engineer,Male,Rural,158581,1
+Bachelor,Engineer,Female,Urban,167927,1
+Master,Director,Male,Rural,74773,0
+High School,Engineer,Male,Urban,198819,1
+Bachelor,Engineer,Male,Suburban,116396,1
+Master,Director,Male,Suburban,147692,1
+Bachelor,Manager,Female,Urban,97505,0
+High School,Manager,Male,Rural,125896,1
+Bachelor,Engineer,Male,Suburban,58135,0
+Bachelor,Engineer,Female,Rural,130887,1
+Bachelor,Manager,Female,Suburban,162118,1
+Bachelor,Director,Female,Urban,87377,0
+High School,Engineer,Male,Urban,194626,1
+PhD,Analyst,Female,Urban,102491,1
+Bachelor,Director,Female,Suburban,98283,0
+Bachelor,Engineer,Male,Rural,56923,0
+Master,Engineer,Female,Rural,87591,0
+Bachelor,Analyst,Female,Rural,102261,1
+Master,Analyst,Female,Suburban,94336,0
+PhD,Manager,Female,Suburban,114083,1
+High School,Director,Male,Suburban,100948,1
+High School,Director,Female,Suburban,66672,0
+PhD,Manager,Female,Suburban,44213,0
+High School,Director,Male,Rural,181365,1
+PhD,Director,Female,Suburban,102507,1
+PhD,Director,Male,Suburban,97134,0
+PhD,Director,Female,Rural,173172,1
+High School,Director,Male,Suburban,68172,0
+Master,Analyst,Male,Rural,60132,0
+PhD,Director,Male,Rural,58199,0
+Bachelor,Analyst,Male,Urban,76609,0
+High School,Director,Female,Urban,179088,1
+PhD,Manager,Male,Urban,71881,0
+PhD,Engineer,Female,Urban,64472,0
+Bachelor,Analyst,Male,Suburban,94131,0
+Master,Director,Male,Urban,195159,1
+Master,Manager,Male,Rural,52828,0
+Master,Engineer,Female,Suburban,136664,1
+PhD,Analyst,Male,Urban,172473,1
+PhD,Engineer,Female,Rural,55193,0
+PhD,Manager,Female,Suburban,191379,1
+High School,Analyst,Female,Suburban,142518,1
+Bachelor,Engineer,Female,Urban,59611,0
+PhD,Director,Female,Suburban,183022,1
+Bachelor,Analyst,Female,Rural,116240,1
+Bachelor,Engineer,Female,Suburban,42745,0
+Master,Manager,Female,Rural,95243,0
+High School,Manager,Female,Suburban,43866,0
+PhD,Analyst,Male,Urban,168681,1
+Master,Engineer,Male,Rural,111354,1
+Master,Analyst,Male,Suburban,91374,0
+PhD,Analyst,Male,Suburban,154397,1
+Bachelor,Engineer,Male,Suburban,164577,1
+Master,Engineer,Female,Rural,121029,1
+Bachelor,Director,Female,Rural,133574,1
+High School,Engineer,Female,Rural,191519,1
+Bachelor,Manager,Female,Urban,70431,0
+High School,Analyst,Female,Urban,188980,1
+Bachelor,Analyst,Female,Rural,69336,0
+Master,Manager,Female,Suburban,80992,0
+Master,Engineer,Male,Urban,95350,0
+High School,Manager,Male,Rural,109561,1
+PhD,Manager,Male,Suburban,91955,0
+High School,Director,Male,Urban,101240,1
+High School,Manager,Female,Suburban,191165,1
+Bachelor,Analyst,Female,Suburban,177227,1
+Bachelor,Manager,Female,Suburban,86607,0
+High School,Analyst,Male,Suburban,192035,1
+Master,Analyst,Female,Urban,92870,0
+Bachelor,Analyst,Female,Urban,104110,1
+PhD,Engineer,Female,Urban,192008,1
+Bachelor,Director,Male,Rural,156895,1
+Bachelor,Analyst,Female,Urban,44426,0
+PhD,Analyst,Male,Suburban,67606,0
+High School,Engineer,Male,Urban,68151,0
+PhD,Analyst,Male,Suburban,51308,0
+High School,Manager,Male,Rural,130306,1
+High School,Manager,Female,Suburban,146984,1
+High School,Director,Male,Suburban,42204,0
+PhD,Analyst,Male,Suburban,132769,1
+High School,Engineer,Female,Rural,127265,1
+Master,Manager,Female,Urban,71131,0
+PhD,Engineer,Male,Urban,92428,0
+Master,Engineer,Female,Rural,73870,0
+High School,Manager,Male,Suburban,143547,1
+Bachelor,Engineer,Male,Urban,89067,0
+High School,Manager,Male,Rural,152217,1
+Master,Engineer,Male,Urban,192679,1
+Master,Manager,Female,Rural,196040,1
+PhD,Analyst,Male,Suburban,138934,1
+Bachelor,Director,Female,Urban,182980,1
+PhD,Manager,Female,Rural,197495,1
+Master,Manager,Female,Urban,114707,1
+High School,Director,Female,Urban,101215,1
+Bachelor,Manager,Male,Urban,89429,0
+High School,Manager,Female,Urban,122152,1
+High School,Engineer,Male,Rural,148048,1
+Bachelor,Director,Female,Suburban,178731,1
+PhD,Analyst,Female,Rural,117240,1
+High School,Manager,Male,Rural,153688,1
+Master,Director,Male,Rural,86473,0
+High School,Engineer,Male,Suburban,136762,1
+Bachelor,Analyst,Female,Urban,146956,1
+Bachelor,Director,Female,Urban,158452,1
+Bachelor,Analyst,Male,Urban,166311,1
+PhD,Analyst,Male,Suburban,47006,0
+High School,Analyst,Male,Urban,114218,1
+PhD,Manager,Male,Suburban,72430,0
+PhD,Manager,Female,Urban,63091,0
+Bachelor,Engineer,Male,Urban,63989,0
+Bachelor,Engineer,Male,Rural,115451,1
+PhD,Director,Male,Suburban,58990,0
+High School,Engineer,Male,Rural,130270,1
+Master,Analyst,Female,Rural,120360,1
+PhD,Analyst,Male,Rural,76081,0
+High School,Manager,Female,Suburban,182105,1
+Bachelor,Analyst,Male,Suburban,148272,1
+Bachelor,Director,Male,Urban,56241,0
+High School,Analyst,Female,Rural,164932,1
+Master,Analyst,Male,Urban,45939,0
+Bachelor,Director,Female,Rural,153000,1
+Bachelor,Engineer,Female,Suburban,75063,0
+Bachelor,Engineer,Male,Suburban,198117,1
+High School,Director,Female,Suburban,87118,0
+PhD,Manager,Female,Rural,124703,1
+Bachelor,Analyst,Female,Suburban,192697,1
+PhD,Director,Female,Rural,168557,1
+Master,Analyst,Female,Urban,67076,0
+Bachelor,Manager,Female,Rural,84605,0
+Bachelor,Analyst,Female,Urban,124565,1
+Master,Director,Female,Rural,79121,0
+Bachelor,Analyst,Male,Urban,71433,0
+PhD,Engineer,Male,Suburban,83309,0
+High School,Manager,Female,Urban,107468,1
+PhD,Manager,Male,Suburban,107293,1
+High School,Manager,Female,Suburban,136258,1
+High School,Director,Female,Urban,78405,0
+PhD,Manager,Male,Rural,83527,0
+PhD,Engineer,Female,Rural,117227,1
+PhD,Director,Female,Rural,171564,1
+PhD,Engineer,Female,Rural,179883,1
+Master,Analyst,Female,Rural,133344,1
+Bachelor,Analyst,Male,Suburban,195344,1
+High School,Analyst,Female,Rural,87153,0
+PhD,Analyst,Female,Suburban,148042,1
+PhD,Engineer,Female,Suburban,94110,0
+PhD,Director,Male,Suburban,185051,1
+Master,Director,Female,Urban,68328,0
+PhD,Manager,Male,Urban,152911,1
+PhD,Engineer,Male,Suburban,52867,0
+PhD,Analyst,Female,Urban,99234,0
+Bachelor,Engineer,Female,Rural,65851,0
+Master,Manager,Male,Rural,71279,0
+PhD,Manager,Female,Suburban,113402,1
+High School,Engineer,Male,Rural,55449,0
+High School,Engineer,Male,Suburban,116221,1
+High School,Engineer,Female,Suburban,129080,1
+Master,Director,Female,Rural,45451,0
+Master,Analyst,Male,Urban,127178,1
+High School,Engineer,Male,Rural,103761,1
+PhD,Engineer,Male,Rural,78870,0
+Master,Engineer,Male,Suburban,136566,1
+High School,Manager,Female,Suburban,163749,1
+High School,Manager,Female,Suburban,163765,1
+PhD,Director,Female,Suburban,164881,1
+Bachelor,Analyst,Female,Urban,168389,1
+Master,Director,Female,Urban,65372,0
+PhD,Analyst,Male,Urban,43642,0
+High School,Manager,Female,Suburban,199073,1
+High School,Manager,Female,Suburban,74064,0
+PhD,Manager,Female,Suburban,54122,0
+Master,Director,Female,Urban,195892,1
+Bachelor,Engineer,Female,Suburban,108431,1
+Bachelor,Engineer,Male,Rural,95745,0
+High School,Manager,Male,Rural,90081,0
+Master,Engineer,Male,Suburban,179783,1
+Bachelor,Engineer,Female,Rural,189865,1
+Master,Director,Male,Rural,179271,1
+Master,Analyst,Male,Urban,116253,1
+High School,Manager,Female,Suburban,76191,0
+Bachelor,Manager,Female,Suburban,50211,0
+PhD,Director,Female,Urban,151086,1
+High School,Director,Male,Rural,192614,1
+Bachelor,Engineer,Male,Rural,141971,1
+Bachelor,Manager,Female,Suburban,133783,1
+Bachelor,Analyst,Female,Rural,165681,1
+Bachelor,Director,Male,Urban,127893,1
+Bachelor,Analyst,Male,Urban,198763,1
+Master,Analyst,Female,Suburban,117960,1
+High School,Manager,Female,Urban,124388,1
+Master,Manager,Male,Urban,62601,0
+PhD,Director,Female,Suburban,189092,1
+Bachelor,Manager,Male,Urban,179227,1
+High School,Manager,Male,Urban,59710,0
+Bachelor,Manager,Male,Urban,148714,1
+High School,Analyst,Male,Rural,195604,1
+Master,Director,Female,Suburban,168727,1
+High School,Engineer,Female,Suburban,189673,1
+PhD,Analyst,Male,Suburban,103227,1
+PhD,Manager,Male,Rural,176039,1
+High School,Analyst,Male,Rural,124289,1
+High School,Manager,Male,Suburban,191094,1
+High School,Manager,Male,Rural,45722,0
+High School,Analyst,Female,Suburban,198485,1
+PhD,Director,Female,Rural,121050,1
+Bachelor,Manager,Female,Urban,123596,1
+High School,Director,Female,Urban,106732,1
+High School,Engineer,Male,Suburban,183369,1
+PhD,Manager,Male,Rural,108323,1
+PhD,Director,Male,Rural,63816,0
+Master,Director,Male,Urban,80695,0
+High School,Engineer,Male,Urban,190774,1
+Master,Director,Female,Rural,196314,1
+PhD,Director,Male,Rural,95841,0
+PhD,Engineer,Female,Rural,168498,1
+Bachelor,Manager,Female,Rural,147096,1
+High School,Director,Female,Rural,132764,1
+Master,Director,Female,Rural,125744,1
+PhD,Director,Male,Suburban,68482,0
+PhD,Analyst,Female,Rural,49171,0
+Master,Engineer,Female,Urban,140755,1
+Bachelor,Analyst,Female,Suburban,148125,1
+PhD,Engineer,Male,Rural,170722,1
+High School,Manager,Male,Urban,146082,1
+PhD,Manager,Male,Suburban,43696,0
+High School,Director,Female,Urban,166310,1
+Master,Engineer,Female,Rural,191130,1
+High School,Manager,Male,Rural,191385,1
+Master,Engineer,Female,Rural,59149,0
+High School,Manager,Male,Rural,170064,1
+Master,Analyst,Male,Suburban,93521,0
+High School,Manager,Female,Suburban,85740,0
+Bachelor,Analyst,Female,Urban,146611,1
+High School,Manager,Female,Rural,176028,1
+High School,Director,Female,Urban,106641,1
+Bachelor,Analyst,Male,Suburban,103811,1
+PhD,Manager,Male,Rural,103232,1
+PhD,Director,Male,Rural,55417,0
+High School,Analyst,Male,Suburban,195801,1
+Bachelor,Director,Male,Suburban,152492,1
+High School,Engineer,Female,Suburban,70099,0
+Master,Engineer,Male,Suburban,183674,1
+Master,Analyst,Male,Suburban,158474,1
+High School,Manager,Male,Rural,49256,0
+PhD,Analyst,Female,Suburban,74681,0
+PhD,Director,Female,Rural,131328,1
+High School,Manager,Female,Rural,83361,0
+High School,Engineer,Female,Suburban,74540,0
+Master,Manager,Male,Suburban,197608,1
+PhD,Engineer,Male,Rural,124700,1
+High School,Manager,Female,Suburban,118532,1
+Master,Manager,Female,Suburban,167626,1
+PhD,Manager,Male,Suburban,173943,1
+Bachelor,Director,Male,Urban,86002,0
+Master,Director,Female,Rural,89812,0
+PhD,Analyst,Female,Urban,193698,1
+PhD,Analyst,Female,Suburban,148946,1
+Master,Engineer,Female,Urban,106668,1
+Bachelor,Director,Male,Suburban,139003,1
+Master,Engineer,Male,Urban,82998,0
+PhD,Analyst,Male,Suburban,144601,1
+High School,Engineer,Female,Urban,47812,0
+High School,Analyst,Female,Urban,101844,1
+Master,Director,Male,Urban,173251,1
+PhD,Manager,Male,Rural,114601,1
+High School,Director,Male,Urban,179347,1
+PhD,Engineer,Male,Rural,87857,0
+Master,Engineer,Female,Suburban,165555,1
+High School,Director,Male,Urban,60700,0
+PhD,Director,Male,Suburban,133330,1
+High School,Analyst,Male,Suburban,184941,1
+Master,Engineer,Male,Urban,192026,1
+PhD,Engineer,Male,Rural,103353,1
+High School,Director,Male,Urban,140772,1
+Master,Manager,Male,Suburban,131502,1
+High School,Engineer,Female,Suburban,153943,1
+High School,Manager,Female,Urban,149850,1
+Bachelor,Director,Female,Rural,85095,0
+Bachelor,Director,Female,Rural,185342,1
+Master,Analyst,Male,Suburban,55523,0
+Bachelor,Engineer,Female,Suburban,102433,1
+Master,Manager,Female,Rural,59991,0
+Bachelor,Analyst,Male,Urban,50775,0
+High School,Engineer,Male,Suburban,124995,1
+Master,Analyst,Female,Rural,187745,1
+Master,Director,Female,Suburban,162808,1
+High School,Engineer,Male,Urban,198128,1
+Master,Analyst,Female,Rural,177686,1
+Master,Analyst,Male,Suburban,47415,0
+Bachelor,Manager,Male,Urban,188036,1
+Master,Analyst,Male,Suburban,77044,0
+PhD,Engineer,Male,Urban,89976,0
+High School,Engineer,Female,Urban,43832,0
+Bachelor,Manager,Male,Rural,74148,0
+Bachelor,Engineer,Male,Urban,152230,1
+PhD,Director,Female,Suburban,125076,1
+High School,Engineer,Male,Urban,78402,0
+High School,Engineer,Female,Urban,78578,0
+Bachelor,Analyst,Female,Rural,130453,1
+Master,Analyst,Female,Urban,193390,1
+Bachelor,Engineer,Male,Urban,115715,1
+High School,Manager,Female,Suburban,151435,1
+PhD,Analyst,Female,Rural,191538,1
+Bachelor,Manager,Male,Rural,135742,1
+High School,Engineer,Female,Rural,85475,0
+Bachelor,Engineer,Female,Urban,100142,1
+Master,Director,Female,Rural,197636,1
+Bachelor,Analyst,Female,Urban,193484,1
+Bachelor,Engineer,Female,Urban,133526,1
+High School,Director,Male,Suburban,91001,0
+High School,Analyst,Female,Suburban,97649,0
+High School,Engineer,Female,Suburban,184228,1
+Bachelor,Engineer,Male,Suburban,194136,1
+Master,Analyst,Male,Suburban,65711,0
+PhD,Analyst,Male,Urban,70106,0
+PhD,Analyst,Female,Urban,105458,1
+High School,Engineer,Male,Rural,187661,1
+High School,Engineer,Female,Urban,170429,1
+Bachelor,Director,Female,Urban,141754,1
+PhD,Manager,Male,Suburban,178286,1
+High School,Analyst,Male,Urban,166479,1
+Master,Engineer,Female,Suburban,198199,1
+Master,Engineer,Male,Rural,176213,1
+High School,Analyst,Female,Rural,68884,0
+High School,Manager,Male,Urban,42708,0
+PhD,Analyst,Male,Rural,58375,0
+PhD,Manager,Male,Urban,55088,0
+Bachelor,Engineer,Female,Rural,97615,0
+PhD,Manager,Male,Suburban,150138,1
+Master,Director,Female,Suburban,50014,0
+Master,Engineer,Female,Suburban,174345,1
+High School,Director,Female,Suburban,142842,1
+PhD,Analyst,Female,Urban,118077,1
+Bachelor,Analyst,Male,Rural,179784,1
+Master,Analyst,Female,Urban,92874,0
+Master,Manager,Female,Suburban,109087,1
+Bachelor,Engineer,Male,Urban,52297,0
+Bachelor,Analyst,Female,Rural,67128,0
+Master,Analyst,Male,Urban,108368,1
+Master,Engineer,Female,Rural,118958,1
+Bachelor,Analyst,Male,Urban,72920,0
+Master,Director,Female,Rural,182228,1
+High School,Engineer,Male,Rural,182180,1
+High School,Engineer,Female,Suburban,173872,1
+Bachelor,Engineer,Female,Rural,173682,1
+PhD,Director,Male,Suburban,117603,1
+Bachelor,Engineer,Male,Suburban,73872,0
+Bachelor,Director,Male,Suburban,50728,0
+PhD,Engineer,Male,Urban,135102,1
+PhD,Manager,Female,Urban,162049,1
+PhD,Analyst,Female,Urban,60583,0
+High School,Manager,Male,Urban,125774,1
+Master,Analyst,Female,Rural,178335,1
+High School,Director,Male,Rural,166374,1
+Master,Manager,Male,Urban,190528,1
+High School,Engineer,Female,Rural,131118,1
+Master,Analyst,Female,Rural,105942,1
+High School,Analyst,Female,Suburban,53689,0
+PhD,Manager,Female,Suburban,73276,0
+Bachelor,Director,Female,Suburban,141968,1
+High School,Manager,Female,Suburban,190945,1
+Master,Director,Female,Rural,53050,0
+PhD,Director,Male,Urban,106216,1
+High School,Analyst,Male,Rural,124040,1
+High School,Manager,Male,Rural,61644,0
+PhD,Manager,Male,Rural,102021,1
+High School,Director,Male,Suburban,82291,0
+Bachelor,Manager,Female,Suburban,172610,1
+High School,Engineer,Male,Suburban,81520,0
+Bachelor,Engineer,Male,Urban,65675,0
+Bachelor,Manager,Male,Rural,189359,1
+PhD,Manager,Male,Urban,40174,0
+High School,Director,Male,Suburban,132268,1
+PhD,Engineer,Male,Urban,74998,0
+High School,Engineer,Male,Rural,183184,1
+High School,Analyst,Female,Rural,145410,1
+Master,Director,Female,Suburban,115225,1
+High School,Analyst,Male,Suburban,84814,0
+PhD,Engineer,Female,Urban,125091,1
+Bachelor,Director,Female,Suburban,90719,0
+High School,Manager,Female,Suburban,169887,1
+Master,Director,Female,Rural,73919,0
+PhD,Manager,Male,Suburban,113155,1
+High School,Manager,Female,Suburban,111569,1
+PhD,Director,Female,Rural,81328,0
+Master,Manager,Female,Rural,64618,0
+Master,Analyst,Male,Urban,74675,0
+PhD,Engineer,Male,Suburban,58919,0
+High School,Manager,Male,Rural,44173,0
+Bachelor,Analyst,Male,Urban,149369,1
+Master,Manager,Male,Urban,66400,0
+High School,Engineer,Male,Suburban,110305,1
+High School,Analyst,Male,Suburban,128791,1
+Bachelor,Engineer,Female,Urban,199034,1
+Master,Engineer,Female,Rural,110533,1
+Master,Analyst,Female,Urban,143591,1
+High School,Analyst,Male,Suburban,181650,1
+High School,Analyst,Male,Rural,171060,1
+Bachelor,Director,Male,Rural,189696,1
+Bachelor,Analyst,Male,Urban,79194,0
+Master,Analyst,Male,Suburban,149903,1
+PhD,Analyst,Female,Urban,171461,1
+Master,Analyst,Female,Urban,139303,1
+High School,Manager,Male,Urban,153903,1
+Master,Director,Male,Rural,107391,1
+PhD,Engineer,Male,Rural,184866,1
+Bachelor,Analyst,Male,Suburban,98002,0
+PhD,Manager,Female,Suburban,75531,0
+PhD,Manager,Male,Urban,44986,0
+PhD,Manager,Male,Urban,72298,0
+Bachelor,Engineer,Male,Urban,41481,0
+PhD,Analyst,Male,Suburban,96408,0
+PhD,Director,Female,Rural,161950,1
+PhD,Director,Male,Rural,187907,1
+High School,Manager,Male,Urban,165355,1
+PhD,Engineer,Female,Urban,67798,0
+Bachelor,Engineer,Female,Urban,131649,1
+PhD,Engineer,Female,Urban,104887,1
+PhD,Director,Male,Suburban,59477,0
+Bachelor,Manager,Male,Rural,188338,1
+PhD,Analyst,Female,Urban,167815,1
+Bachelor,Director,Female,Suburban,167426,1
+PhD,Manager,Female,Urban,182961,1
+Bachelor,Manager,Female,Urban,64335,0
+PhD,Analyst,Female,Rural,182326,1
+PhD,Analyst,Female,Urban,126610,1
+High School,Analyst,Male,Rural,51442,0
+High School,Engineer,Male,Rural,86289,0
+PhD,Analyst,Male,Rural,93747,0
+PhD,Manager,Female,Suburban,77327,0
+Master,Analyst,Female,Suburban,187271,1
